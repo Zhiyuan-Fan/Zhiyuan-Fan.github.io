@@ -90,4 +90,4 @@ Selected Awards
   2021
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=8sx-Zj95bF5wzo-QWGqqUc4GFSz6EcZONltHAdXABxk'></script>
+<a href='https://clustrmaps.com/site/1bxk7'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=8sx-Zj95bF5wzo-QWGqqUc4GFSz6EcZONltHAdXABxk'/></a>

@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Zhiyuan Fan"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : # "Earth"
+  bio              : "I am a senior student studying at Tianjin University."
+  location         : "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "ambiyuan@gmail.com" 

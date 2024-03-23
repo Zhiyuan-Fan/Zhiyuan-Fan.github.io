@@ -13,10 +13,6 @@ I am a senior undergraduate student at Tianjin University.
 My research interests lie in Large Language Model and Multimodal Learning.
 <br/>
 
-On Going Project
-======
-✨[DELIP: Dense Enhanced Language-Image Pretraining](https://zhiyuan.fan/DELIP/)
-
 Publications
 ======
 - **(Open Review) Exploring the Potential of Dense Information in Multimodal Alignment**

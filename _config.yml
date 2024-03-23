@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiyuan Fan / Site Title"
+title                    : "Zhiyuan Fan"
 title_separator          : "-"
 name                     : &name "Zhiyuan Fan"
 description              : &description "personal description"

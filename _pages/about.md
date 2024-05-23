@@ -15,7 +15,7 @@ My research interests lie in Large Language Model and Multimodal Learning.
 
 Publications
 ======
-- **(Open Review) Exploring the Potential of Dense Information in Multimodal Alignment**
+- **(ACL 2024) Exploring the Potential of Dense Information in Multimodal Alignment**
   <br/>
   _**Zhiyuan Fan\***, Zhihong Chen, Benyou Wang_
   <br/>

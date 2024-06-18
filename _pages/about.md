@@ -34,9 +34,6 @@ Publications
 
 Experiences
 ======
-- **The Chinese University of Hong Kong**  
-  Intern research (advisor: Asst. Prof. Benyou Wang)  
-  June 2023 - Oct. 2023
 
 - **Institute of Neuroscience, Chinese Academy of Sciences**  
   Intern research (advisor: Prof. Xue Li)  
@@ -49,10 +46,6 @@ Experiences
 - **Institute of Automation, Chinese Academy of Sciences**  
   Intern research (advisor: Assoc. Researcher Shizhu He)  
   April 2022 - Present
-
-- **Tianjin University**  
-  Intern research (advisor: Prof. Zhuo Li)  
-  April 2021 - March 2022
 
 
 Selected Open Source Project

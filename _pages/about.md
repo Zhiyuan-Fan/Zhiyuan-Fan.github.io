@@ -22,7 +22,7 @@ Selected Publications
   Under Review
 
 - **Calibrated Self-Rewarding Vision Language Models**  
-  <u><i>Yiyang Zhou, <b><i>Zhiyuan Fan</i></b>*</i></u>, ... , <i>Huaxiu Yao</i> 
+  <u><i>Yiyang Zhou, <b><i>Zhiyuan Fan</i></b>*</i></u>, ... , <i>Huaxiu Yao</i>     
   <u>These authors contributed equally.</u>    
   Under Review  
 

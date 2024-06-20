@@ -44,7 +44,7 @@ Selected Publications
   <br/>
   [[MDPI](https://www.mdpi.com/2079-9292/12/2/414)]
 
-Experiences
+Selected Experiences
 ======
 
 - **Institute of Neuroscience, Chinese Academy of Sciences**  
@@ -53,7 +53,7 @@ Experiences
 
 - **Baidu & [Jina AI](https://jina.ai)**  
   Intern research (advisor: CTO, Nan Wang)  
-  July 2022 - Sept. 2022
+  July 2022 - Jan 2023
 
 - **Institute of Automation, Chinese Academy of Sciences**  
   Intern research (advisor: Assoc. Researcher Shizhu He)  

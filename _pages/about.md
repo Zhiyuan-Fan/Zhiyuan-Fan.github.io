@@ -23,10 +23,9 @@ Publications
 
 - **Calibrated Self-Rewarding Vision Language Models**
   <br/>
-  _Yiyang Zhou_, __Zhiyuan Fan__*, ... , Huaxiu Yao_
+  _<u>Yiyang Zhou, **Zhiyuan Fan\***</u>, ... , Huaxiu Yao_
   <br/>
-  Under Review
-__These authors contributed equally.__
+  Under Review <u>These authors contributed equally.</u>
 
 - **(ACL 2024) Exploring the Potential of Dense Information in Multimodal Alignment**
   <br/>

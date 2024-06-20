@@ -69,6 +69,8 @@ Selected Open Source Projects
 
 
 - **LLM Cookbook** ([GitHub](https://github.com/datawhalechina/llm-cookbook), 10.2k Stars)  
+  Contributions: Authored tutorials on Retrieval-Augmented Generation (RAG), agent-based systems, and techniques for processing unstructured data.
+
 
 Selected Book
 ======
@@ -79,15 +81,15 @@ Selected Book
 Selected Awards
 ======
 - **Champion**  
-  Baidu PaddlePaddle AI Hackathon: Pretrained Language Model  
+  Baidu PaddlePaddle AI Hackathon: Pretrained Language Model.   
   2023
 
 - **Gold Award**  
-  China International College Students 'Internet+' Innovation and Entrepreneurship Competition  
+  China International College Students 'Internet+' Innovation and Entrepreneurship Competition.     
   2023
 
 - **Silver Award**  
-  Huawei Ascend Operator Development Competition, solo
+  Huawei Ascend Operator Development Competition, solo.     
   2021
 
 

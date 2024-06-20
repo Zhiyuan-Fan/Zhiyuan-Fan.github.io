@@ -15,11 +15,25 @@ My research interests lie in Large Language Model and Multimodal Learning.
 
 Publications
 ======
+- **Automated Evaluation Using Self-Adaptive Rubrics**
+  <br/>
+  _**Zhiyuan Fan\***, Weinong Wang, Xing Wu, Debing Zhang_
+  <br/>
+  Under Review
+
+- **Calibrated Self-Rewarding Vision Language Models**
+  <br/>
+  _Yiyang Zhou_, __Zhiyuan Fan__*, ... , Huaxiu Yao_
+  <br/>
+  Under Review
+__These authors contributed equally.__
+
 - **(ACL 2024) Exploring the Potential of Dense Information in Multimodal Alignment**
   <br/>
   _**Zhiyuan Fan\***, Zhihong Chen, Benyou Wang_
   <br/>
   Under Review
+
 - **(EMNLP 2023) Efficient Data Learning for Open Information Extraction with Pre-trained Language Models**
   <br/>
   _**Zhiyuan Fan\***, Shizhu He_

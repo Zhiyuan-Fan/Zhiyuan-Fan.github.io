@@ -22,11 +22,8 @@ Selected Publications
   Under Review
 
 - **Calibrated Self-Rewarding Vision Language Models**  
-  <br/>
-  <u><i>Yiyang Zhou, **Zhiyuan Fan***</i></u>, ... , Huaxiu Yao  
-  <br/>
+  <u><i>Yiyang Zhou, <b><i>Zhiyuan Fan</i></b>*</i></u>, ... , <i>Huaxiu Yao</i>  
   Under Review <u>These authors contributed equally.</u>
-
 
 - **(ACL 2024) Exploring the Potential of Dense Information in Multimodal Alignment**
   <br/>
@@ -66,7 +63,7 @@ Selected Open Source Projects
 ======
 - **PaddleNLP** ([GitHub](https://github.com/PaddlePaddle/PaddleNLP), 11.7k Stars)  
   Contributions: Submitted two PRs (7k+ lines): 
-  - Implemented DPR training on a single-GPU with a batch size of 512 using gradient cache 
+  - Implemented DPR training on a single-GPU with a batch size of 512 using gradient cache.
   - Developed a from-scratch DeBERTa pre-trained language model implementation.
 
 

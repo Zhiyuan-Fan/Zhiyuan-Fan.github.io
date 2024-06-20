@@ -13,7 +13,7 @@ I am a senior undergraduate student at Tianjin University.
 My research interests lie in Large Language Model and Multimodal Learning.
 <br/>
 
-Publications
+Selected Publications
 ======
 - **Automated Evaluation Using Self-Adaptive Rubrics**
   <br/>
@@ -62,15 +62,15 @@ Experiences
   April 2022 - Present
 
 
-Selected Open Source Project
+Selected Open Source Projects
 ======
-- **PaddleNLP** ([GitHub](https://github.com/PaddlePaddle/PaddleNLP), 10.3k Stars)  
+- **PaddleNLP** ([GitHub](https://github.com/PaddlePaddle/PaddleNLP), 11.7k Stars)  
   Contributions: Submitted two PRs (7k+ lines): 
   - Implemented DPR training on a single-GPU with a batch size of 512 using gradient cache 
   - Developed a from-scratch DeBERTa pre-trained language model implementation.
 
 
-- **LLM Cookbook** ([GitHub](https://github.com/datawhalechina/llm-cookbook), 8.6k Stars)  
+- **LLM Cookbook** ([GitHub](https://github.com/datawhalechina/llm-cookbook), 10.2k Stars)  
 
 Selected Book
 ======
@@ -84,12 +84,12 @@ Selected Awards
   Baidu PaddlePaddle AI Hackathon: Pretrained Language Model  
   2023
 
-- **Gold Award, Provincial Level**  
+- **Gold Award**  
   China International College Students 'Internet+' Innovation and Entrepreneurship Competition  
   2023
 
 - **Silver Award**  
-  Huawei Ascend Operator Development Competition  
+  Huawei Ascend Operator Development Competition, solo
   2021
 
 

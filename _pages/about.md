@@ -44,6 +44,11 @@ Selected Publications
   <br/>
   [[MDPI](https://www.mdpi.com/2079-9292/12/2/414)]
 
+Selected Engineering Project
+======
+  - Reimplemented the tensor parallel strategy from the ground up using PyTorch and NCCL.
+  - Successfully trained models exceeding 100 billion parameters from scratch.
+
 Selected Experiences
 ======
 

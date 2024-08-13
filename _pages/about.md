@@ -52,6 +52,10 @@ Selected Engineering Projects
 Selected Experiences
 ======
 
+- **University of North Carolina at Chapel Hill**  
+  Intern research (advisor: Asst. Prof. Huaxiu Yao)  
+  February 2024 - Present
+
 - **Institute of Neuroscience, Chinese Academy of Sciences**  
   Intern research (advisor: Prof. Xue Li)  
   April 2023 - June 2023
@@ -62,7 +66,7 @@ Selected Experiences
 
 - **Institute of Automation, Chinese Academy of Sciences**  
   Intern research (advisor: Assoc. Researcher Shizhu He)  
-  April 2022 - Present
+  April 2022 - January 2024
 
 
 Selected Open Source Projects

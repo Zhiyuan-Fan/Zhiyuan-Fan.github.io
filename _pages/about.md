@@ -15,7 +15,8 @@ My research interests lie in Large Language Model and Multimodal Learning.
 
 Selected Publications
 ======
-- **Automated Evaluation Using Self-Adaptive Rubrics**
+
+- **(EMNLP 2024)Automated Evaluation Using Self-Adaptive Rubrics**
   <br/>
   _**Zhiyuan Fan\***, Weinong Wang, Xing Wu, Debing Zhang_
   <br/>

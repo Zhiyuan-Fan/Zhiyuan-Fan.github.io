@@ -16,13 +16,13 @@ My research interests lie in Large Language Model and Multimodal Learning.
 Selected Publications
 ======
 
-- **(EMNLP 2024)Automated Evaluation Using Self-Adaptive Rubrics**
+- **(EMNLP 2024) Automated Evaluation Using Self-Adaptive Rubrics**
   <br/>
   _**Zhiyuan Fan\***, Weinong Wang, Xing Wu, Debing Zhang_
   <br/>
   Under Review
 
-- **Calibrated Self-Rewarding Vision Language Models**  
+- **(NeurIPS 2024) Calibrated Self-Rewarding Vision Language Models**  
   <u><i>Yiyang Zhou, <b><i>Zhiyuan Fan</i></b>*</i></u>, ... , <i>Huaxiu Yao</i>     
   <u>These authors contributed equally.</u>    
   Under Review  

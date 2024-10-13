@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at Tianjin University. 
+I am a first-year Master's student at the Hong Kong University of Science and Technology, under the supervision of [Prof. Yiren Fung](https://yrf1.github.io/).
 <br/>
-My research interests lie in Large Language Model and Multimodal Learning.
+My research interests lie in human-centered NLP and Multimodal Learning.
 <br/>
 
-Selected Publications
+Homepage last updated in June 2024.
+
 ======
 
 - **(EMNLP 2024) Automated Evaluation Using Self-Adaptive Rubrics**

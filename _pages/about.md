@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Master's student at the Hong Kong University of Science and Technology, under the supervision of [Prof. Yiren Fung](https://yrf1.github.io/).
+I am a senior undergraduate student at Tianjin University.
 <br/>
-My research interests lie in human-centered NLP and Multimodal Learning.
+My research interests lie in Large Language Model and Multimodal Learning.
 <br/>
-
-Homepage last updated in June 2024.
+> **⚠️ Note: This homepage was last updated in June 2024 and will remain on pause until I produce work of significant quality and impact. As a result, regular maintenance of the site is currently unnecessary.**
 
 ======
 
